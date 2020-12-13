@@ -1,0 +1,12 @@
+img  { width: 60%;
+    height:auto;
+    float: right;
+    
+
+}
+.card {width: 40;
+        float:left
+}
+body {
+    background-color: rgb(154, 187, 34);
+  }
