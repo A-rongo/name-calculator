@@ -6,9 +6,9 @@ img {
   } 
   body {background-color: coral;
 }
- h1{
-     padding: 0.5pc;
-     color: aliceblue;
+  h1{ 
+      padding: 0.5pc; 
+     color: rgb(15, 17, 19);
      align-self:center;
  }
   
@@ -38,4 +38,4 @@ img {
   
   .container-right {
     float: right;
-  }
+  } 
